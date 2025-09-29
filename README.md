@@ -1,19 +1,19 @@
 <!--  Epic Header with Dynamic Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=220&section=header&text=LONOWN281&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Elite%20Developer%20│%20🔐%20Cybersecurity%20Maestro%20│%20⚡%20Digital%20Architect&descAlignY=55&descAlign=62&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=220&section=header&text=LONOWN281&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20Full-Stack%20Developer%20│%20%20Cybersecurity%20Maestro%20│%20%20Digital%20Architect&descAlignY=55&descAlign=62&descSize=20" width="100%"/>
 </div>
 
 <!--  Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🌟++DEVELOPER+🌟;💻+Full-Stack+Architect+%7C+🛡️+Security+Wizard;🎮+Game+Dev+%7C+🎨+UI%2FUX+%7C+⚡+Innovation+Master;🚀+Crafting+Tomorrow's+Tech%2C+Today!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=++DEVELOPER+;+Full-Stack+Architect+%7C++Security+Wizard;+Game+Dev+%7C++UI%2FUX+%7C++Innovation+Master;+Crafting+Tomorrow's+Tech%2C+Today!" alt="Typing SVG"/>
 </p>
 
 <!-- Enhanced Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LONOWN281&color=00d9ff&style=for-the-badge&label=🔥+PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/LONOWN281?color=00d9ff&style=for-the-badge&label=👥+FOLLOWERS&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌟+STATUS--gold?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/⚡+LEVEL-∞-ff6b35?style=for-the-badge&labelColor=16213e" />
+  <img src="https://komarev.com/ghpvc/?username=LONOWN281&color=00d9ff&style=for-the-badge&label=+PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/LONOWN281?color=00d9ff&style=for-the-badge&label=+FOLLOWERS&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/+STATUS--gold?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/+LEVEL-∞-ff6b35?style=for-the-badge&labelColor=16213e" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ interface Developer {
 
 class LONOWN281 implements Developer {
   readonly identity = "LONOWN281 ";
-  readonly title = "Elite Full-Stack Architect & Cybersecurity Maestro";
+  readonly title = "Full-Stack Architect & Cybersecurity Maestro";
   readonly realm = "Digital Universe ";
   readonly powerLevel = Infinity;
   
@@ -106,22 +106,22 @@ class LONOWN281 implements Developer {
 
 <div align="center">
   <a href="https://discord.com/users/1041583842097635368" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
+    <img src="https://img.shields.io/badge/_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
   </a>
   <a href="mailto:lonown@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    <img src="https://img.shields.io/badge/_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
   <a href="https://github.com/LONOWN281" target="_blank">
-    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+    <img src="https://img.shields.io/badge/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
   <a href="https://linkedin.com/in/lonown281" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="https://twitter.com/lonown281" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+    <img src="https://img.shields.io/badge/_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
   </a>
   <a href="https://instagram.com/lonown281" target="_blank">
-    <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+    <img src="https://img.shields.io/badge/_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
 </div>
 
