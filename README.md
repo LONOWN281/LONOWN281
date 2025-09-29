@@ -263,18 +263,6 @@ class LONOWN281 implements Developer {
 
 ---
 
-<!--END_SECTION:waka-->
-
----
-
-## CODING SOUNDTRACK
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=00d9ff&bar_color=00d9ff&bar_color_cover=false" width="350" />
-</div>
-
----
-
 ##  DEVELOPER HUMOR
 
 <div align="center">
