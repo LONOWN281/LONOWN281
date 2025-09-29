@@ -1,36 +1,39 @@
-<!-- Animated Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/OK5zI.gif" width="100%" alt="Cyberpunk Banner"/>
-</p>
-
-<!-- Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F8B9&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+LONOWN;💻+Full-Stack+Developer;🔐+Cybersecurity+Expert;🌐+Tech+Enthusiast;🎮+Gamer+%2B+Creator" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F8B9&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+LONOWN;💻+Full-Stack+Developer;🔐+Cybersecurity+Expert;🎮+Tech+%2B+Gaming+%2B+Creativity" alt="Typing SVG"/>
 </p>
 
 ---
 
-## ⚡ About Me
-- ✨ Turning **ideas into reality** with code  
-- 🛡️ Building **secure & scalable systems**  
-- 🎮 Mixing **tech + gaming + creativity**  
+<h1 align="center">⚡ Welcome to my Digital Universe ⚡</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220" />
+</p>
+
+---
+
+- 📫 Reach me: **lonown@gmail.com**  
+- ⚡ Fun Fact: I mix **tech, gaming & creativity** into every project.  
 - 🌍 Motto: *"Code everything. Secure everything."*
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://discord.com/users/1041583842097635368" target="_blank"><img src="https://img.shields.io/badge/Discord-%2300f8b9.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:lonown@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/LONOWN281" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://discord.com/users/1041583842097635368" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="mailto:lonown@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/LONOWN281" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
 
-## 🖥️ Languages & Tech
+## 🖥️ Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,c,cpp,java,cs,php,ruby,go,rust,dart,kotlin,swift,bash,powershell" />
 </p>
+
+💡 *From low-level systems → to high-level apps → to mobile & beyond.*
 
 ---
 
@@ -39,47 +42,63 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,tailwind,nestjs,express,angular,django,flask,fastapi,bootstrap,threejs,unity" />
 </p>
 
+✔️ I don’t just **use frameworks** — I **build ecosystems**.
+
 ---
 
 ## 🛡️ Cybersecurity
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBs7e4lL5v5t6LK/giphy.gif" height="180"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,raspberrypi" />
 </p>
 
-- ✅ PenTesting & Ethical Hacking  
-- ✅ Reverse Engineering / Malware Analysis  
-- ✅ Secure Systems & Cryptography  
+- 🕵️ Ethical Hacking & PenTesting  
+- 🔐 Secure API / Network Architectures  
+- 🧩 Reverse Engineering / Malware Analysis  
+- 🔑 Cryptography Systems  
 
 ---
 
-## 📊 GitHub Stats
+## 🗄️ Databases
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LONOWN281&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LONOWN281&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONOWN281&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LONOWN281&theme=tokyonight&margin-w=15&margin-h=15&column=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,mariadb,postgresql,redis" />
 </p>
 
 ---
 
-## 🎨 Creative Side
+## 🔧 Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,vscode,linux,jenkins,aws,gcp,azure" />
+</p>
+
+---
+
+## 🎨 Creative Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,blender,unity,unreal" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LONOWN281&color=00f8b9&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LONOWN281&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONOWN281&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-<!-- Outro GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/7F1bqgR.gif" width="500" alt="Cyber Hacker Animation"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LONOWN281&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LONOWN281&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONOWN281&theme=tokyo-night" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LONOWN281&color=00f8b9&style=for-the-badge" />
 </p>
