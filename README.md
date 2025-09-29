@@ -55,18 +55,18 @@ class Developer {
   
   getRandomFact(): string {
     const facts = [
-      "🔥 Can debug code in my sleep",
-      "⚡ Writes code faster than light",
-      "🛡️ Protects the digital world",
-      "🎮 Codes while gaming",
-      "🌟 Turns coffee into code"
+      "Can debug code in my sleep",
+      "Writes code faster than light",
+      "Protects the digital world",
+      "Codes while gaming",
+      "Turns coffee into code"
     ];
     return facts[Math.floor(Math.random() * facts.length)];
   }
 }
 ```
 
-📧 **Contact**: [lonown@gmail.com](mailto:lonown@gmail.com)  
+📧 **Contact**: [lonown@gmail.com](lonown@gmail.com)  
 🌐 **Portfolio**: Building something ...  
 💬 **Ask me about**: Full-stack development, cybersecurity, game development, or anything tech!
 
