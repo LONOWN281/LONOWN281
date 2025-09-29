@@ -3,16 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=220&section=header&text=LONOWN281&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Elite%20Developer%20│%20🔐%20Cybersecurity%20Maestro%20│%20⚡%20Digital%20Architect&descAlignY=55&descAlign=62&descSize=20" width="100%"/>
 </div>
 
-<!-- Legendary Typing Animation -->
+<!--  Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🌟+LEGENDARY+DEVELOPER+🌟;💻+Full-Stack+Architect+%7C+🛡️+Security+Wizard;🎮+Game+Dev+%7C+🎨+UI%2FUX+%7C+⚡+Innovation+Master;🚀+Crafting+Tomorrow's+Tech%2C+Today!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🌟++DEVELOPER+🌟;💻+Full-Stack+Architect+%7C+🛡️+Security+Wizard;🎮+Game+Dev+%7C+🎨+UI%2FUX+%7C+⚡+Innovation+Master;🚀+Crafting+Tomorrow's+Tech%2C+Today!" alt="Typing SVG"/>
 </p>
 
 <!-- Enhanced Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LONOWN281&color=00d9ff&style=for-the-badge&label=🔥+PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/LONOWN281?color=00d9ff&style=for-the-badge&label=👥+FOLLOWERS&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌟+STATUS-LEGENDARY-gold?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🌟+STATUS--gold?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/⚡+LEVEL-∞-ff6b35?style=for-the-badge&labelColor=16213e" />
 </p>
 
@@ -39,7 +39,7 @@
 <img align="right" alt="Epic Coding GIF" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```typescript
-interface LegendaryDeveloper {
+interface Developer {
   readonly identity: string;
   readonly title: string;
   readonly realm: string;
@@ -61,33 +61,33 @@ interface LegendaryDeveloper {
   readonly lifePhilosophy: string;
 }
 
-class LONOWN281 implements LegendaryDeveloper {
-  readonly identity = "LONOWN281 🚀";
+class LONOWN281 implements Developer {
+  readonly identity = "LONOWN281 ";
   readonly title = "Elite Full-Stack Architect & Cybersecurity Maestro";
-  readonly realm = "Digital Universe 🌌";
+  readonly realm = "Digital Universe ";
   readonly powerLevel = Infinity;
   
   readonly expertise = {
-    frontend: ["React ⚛️", "Next.js 🔥", "Vue 💚", "Angular 🅰️", "Svelte ⚡"],
-    backend: ["Node.js 🟢", "Python 🐍", "Go 🐹", "Rust 🦀", "C++ ⚡"],
-    mobile: ["React Native 📱", "Flutter 🦋", "Swift 🍎", "Kotlin 🤖"],
-    cybersecurity: ["Ethical Hacking 🕵️", "Pentesting 🔍", "Cryptography 🔐"],
-    cloud: ["AWS ☁️", "Azure 🌩️", "GCP 🌐", "Docker 🐋", "K8s ⚓"],
-    databases: ["PostgreSQL 🐘", "MongoDB 🍃", "Redis 🔴", "Neo4j 🕸️"],
-    devops: ["CI/CD 🔄", "Terraform 🏗️", "Ansible 🤖", "Jenkins 👨‍💼"],
-    ai_ml: ["TensorFlow 🧠", "PyTorch 🔥", "Scikit-learn 📊", "OpenAI 🤖"]
+    frontend: ["React ", "Next.js ", "Vue ", "Angular ", "Svelte "],
+    backend: ["Node.js ", "Python ", "Go ", "Rust ", "C++ "],
+    mobile: ["React Native ", "Flutter ", "Swift ", "Kotlin "],
+    cybersecurity: ["Ethical Hacking ", "Pentesting ", "Cryptography "],
+    cloud: ["AWS ", "Azure ", "GCP ", "Docker ", "K8s "],
+    databases: ["PostgreSQL ", "MongoDB ", "Redis ", "Neo4j "],
+    devops: ["CI/CD ", "Terraform ", "Ansible ", "Jenkins "],
+    ai_ml: ["TensorFlow ", "PyTorch ", "Scikit-learn ", "OpenAI "]
   };
   
   readonly superPowers = [
-    "🔥 Debugging at light speed",
-    "⚡ Converting coffee to clean code",
-    "🛡️ Securing the digital realm",
-    "🎮 Gaming while coding",
-    "🌟 Teaching machines to think"
+    "Debugging at light speed",
+    "Converting coffee to clean code",
+    "Securing the digital realm",
+    "Gaming while coding",
+    "Teaching machines to think"
   ];
   
-  readonly currentMission = "Building the future of technology, one epic project at a time 🚀";
-  readonly lifePhilosophy = "Code with passion, secure with purpose, innovate with vision 💫";
+  readonly currentMission = "Building the future of technology, one epic project at a time ";
+  readonly lifePhilosophy = "Code with passion, secure with purpose, innovate with vision ";
   
   generateRandomWisdom(): string {
     return this.superPowers[Math.floor(Math.random() * this.superPowers.length)];
@@ -97,7 +97,7 @@ class LONOWN281 implements LegendaryDeveloper {
 
 **📬 Connect with the Legend**:  
 📧 **Email**: [lonown@gmail.com](mailto:lonown@gmail.com)  
-🌐 **Portfolio**: *Crafting something legendary...*  
+🌐 **Portfolio**: *Crafting something ...*  
 💬 **Ask me about**: Full-stack wizardry, cybersecurity mastery, AI/ML, or any tech adventure!
 
 ---
@@ -127,7 +127,7 @@ class LONOWN281 implements LegendaryDeveloper {
 
 ---
 
-## 💻 LEGENDARY TECH ARSENAL
+## 💻  TECH ARSENAL
 
 ### 🚀 Programming Languages Mastery
 <div align="center">
@@ -187,7 +187,7 @@ class LONOWN281 implements LegendaryDeveloper {
 
 ---
 
-## 📊 LEGENDARY STATISTICS
+## 📊  STATISTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LONOWN281&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&ring_color=00D9FF&fire_color=FF6B35&include_all_commits=true&count_private=true" height="190"/>
@@ -203,8 +203,8 @@ class LONOWN281 implements LegendaryDeveloper {
 ## 🎯 FEATURED EPIC PROJECTS
 
 <div align="center">
-  <a href="https://github.com/LONOWN281/legendary-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LONOWN281&repo=legendary-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" />
+  <a href="https://github.com/LONOWN281/-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LONOWN281&repo=-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" />
   </a>
   <a href="https://github.com/LONOWN281/cybersecurity-toolkit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LONOWN281&repo=cybersecurity-toolkit&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" />
