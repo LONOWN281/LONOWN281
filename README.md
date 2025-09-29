@@ -221,11 +221,6 @@ class LONOWN281 implements Developer {
 
 ---
 
-## CONTRIBUTION SNAKE GAME
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LONOWN281/LONOWN281/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
 
 ---
 
