@@ -102,7 +102,7 @@ class LONOWN281 implements Developer {
 
 ---
 
-## 🌐 DIGITAL CONNECTIONS
+##  DIGITAL CONNECTIONS
 
 <div align="center">
   <a href="https://discord.com/users/1041583842097635368" target="_blank">
@@ -263,20 +263,6 @@ class LONOWN281 implements Developer {
 
 ---
 
-## WEEKLY CODING BREAKDOWN
-
-<!--START_SECTION:waka-->
-```text
-This Week's Epic Code Sessions:
-
-TypeScript   15 hrs 45 mins  ████████████████░░░░░░░░░   52.3%
-Python       9 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.6%
-JavaScript   3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.8%
-Go           1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    5.8%
-
- Focus Areas: Full-Stack Development, AI/ML Integration, Security Hardening
- Current Streak: Building the future, one commit at a time!
-```
 <!--END_SECTION:waka-->
 
 ---
