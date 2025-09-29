@@ -1,29 +1,27 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F8B9&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+LONOWN;💻+Full-Stack+Developer;🔐+Cybersecurity+Expert;🎮+Tech+%2B+Gaming+%2B+Creativity" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F8B9&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+LONOWN;💻+Full-Stack+Developer;🔐+Cybersecurity+Expert;🎮+Tech+%2B+Gaming+%2B+Creativity" alt="Typing SVG"/>
 </p>
 
 ---
 
-
----
-
+### 🚀 About Me  
 - 📫 Reach me: **lonown@gmail.com**  
 - ⚡ Fun Fact: I mix **tech, gaming & creativity** into every project.  
 - 🌍 Motto: *"Code everything. Secure everything."*
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://discord.com/users/1041583842097635368" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
-  <a href="mailto:lonown@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/LONOWN281" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://discord.com/users/1041583842097635368" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
+  <a href="mailto:lonown@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="https://github.com/LONOWN281" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
 </p>
 
 ---
 
-## 🖥️ Languages
+## 🖥️ Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,c,cpp,java,cs,php,ruby,go,rust,dart,kotlin,swift,bash,powershell" />
 </p>
@@ -32,7 +30,7 @@
 
 ---
 
-## ⚛️ Frameworks & Libraries
+## ⚛️ Frameworks & Libraries  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,tailwind,nestjs,express,angular,django,flask,fastapi,bootstrap,threejs,unity" />
 </p>
@@ -41,7 +39,7 @@
 
 ---
 
-## 🛡️ Cybersecurity
+## 🛡️ Cybersecurity  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,raspberrypi" />
 </p>
@@ -53,35 +51,35 @@
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Databases  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,mariadb,postgresql,redis" />
 </p>
 
 ---
 
-## 🔧 Tools & DevOps
+## 🔧 Tools & DevOps  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,vscode,linux,jenkins,aws,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,vscode,jenkins,aws,gcp,azure" />
 </p>
 
 ---
 
-## 🎨 Creative Tools
+## 🎨 Creative Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,blender,unity,unreal" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LONOWN281&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONOWN281&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LONOWN281&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONOWN281&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LONOWN281&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LONOWN281&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -89,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONOWN281&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONOWN281&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
