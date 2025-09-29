@@ -1,14 +1,14 @@
-<!--  Epic Header with Dynamic Animation -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=220&section=header&text=LONOWN281&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20Full-Stack%20Developer%20│%20%20Cybersecurity%20%20│%20%20Digital%20Architect&descAlignY=55&descAlign=62&descSize=20" width="100%"/>
 </div>
 
-<!--  Typing Animation -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=++DEVELOPER+;+Full-Stack+Architect+%7C++Security+Wizard;+Game+Dev+%7C++UI%2FUX+%7C++Innovation+Master;+Crafting+Tomorrow's+Tech%2C+Today!" alt="Typing SVG"/>
 </p>
 
-<!--  Profile Stats -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LONOWN281&color=00d9ff&style=for-the-badge&label=+PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/LONOWN281?color=00d9ff&style=for-the-badge&label=+FOLLOWERS&logo=github&logoColor=white" />
