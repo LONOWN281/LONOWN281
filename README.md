@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=++DEVELOPER+;+Full-Stack+Architect+%7C++Security+Wizard;+Game+Dev+%7C++UI%2FUX+%7C++Innovation+Master;+Crafting+Tomorrow's+Tech%2C+Today!" alt="Typing SVG"/>
 </p>
 
-<!-- Enhanced Profile Stats -->
+<!--  Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LONOWN281&color=00d9ff&style=for-the-badge&label=+PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/LONOWN281?color=00d9ff&style=for-the-badge&label=+FOLLOWERS&logo=github&logoColor=white" />
@@ -198,26 +198,6 @@ class LONOWN281 implements Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONOWN281&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&area_color=00D9FF&title_color=00D9FF&custom_title=%20LONOWN281's%20Contribution%20Galaxy" width="98%"/>
 </div>
 
----
-
-##  FEATURED EPIC PROJECTS
-
-<div align="center">
-  <a href="https://github.com/LONOWN281/-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LONOWN281&repo=-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" />
-  </a>
-  <a href="https://github.com/LONOWN281/cybersecurity-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LONOWN281&repo=cybersecurity-toolkit&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" />
-  </a>
-  <a href="https://github.com/LONOWN281/ai-ml-experiments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LONOWN281&repo=ai-ml-experiments&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" />
-  </a>
-  <a href="https://github.com/LONOWN281/fullstack-masterpiece">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LONOWN281&repo=fullstack-masterpiece&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" />
-  </a>
-</div>
-
----
 
 
 <img align="right" alt="Gaming & Creativity" width="320" src="https://media.giphy.com/media/l0HlQoLBg7MOSmwHC/giphy.gif">
