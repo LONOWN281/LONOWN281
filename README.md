@@ -5,11 +5,6 @@
 
 ---
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F8B9&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+LONOWN;💻+Full-Stack+Developer;🔐+Cybersecurity+Expert;🎮+Tech+%2B+Gaming+%2B+Creativity;&repeat=true" alt="Typing SVG"/>
-</p>
-
 
 ### 🚀 About Me  
 - 📫 Reach me: **lonown@gmail.com**  
