@@ -5,11 +5,6 @@
 
 ---
 
-<h1 align="center">⚡ Welcome to my Digital Universe ⚡</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220" />
-</p>
 
 ---
 
