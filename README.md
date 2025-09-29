@@ -18,23 +18,23 @@
 
 ---
 
-## 🏆 HALL OF FAME & EPIC ACHIEVEMENTS
+##  HALL OF FAME & EPIC ACHIEVEMENTS
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LONOWN281&theme=discord&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_CODING_LEGEND-FF4500?style=for-the-badge&logo=fire&logoColor=white&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/⚡_TECH_WIZARD-FFD700?style=for-the-badge&logo=magic&logoColor=black&labelColor=DAA520" />
-  <img src="https://img.shields.io/badge/🛡️_CYBER_GUARDIAN-FF1744?style=for-the-badge&logo=security&logoColor=white&labelColor=C62828" />
-  <img src="https://img.shields.io/badge/🎯_SOLUTION_ARCHITECT-00E676?style=for-the-badge&logo=target&logoColor=white&labelColor=2E7D32" />
-  <img src="https://img.shields.io/badge/🚀_INNOVATION_MASTER-9C27B0?style=for-the-badge&logo=rocket&logoColor=white&labelColor=6A1B9A" />
+  <img src="https://img.shields.io/badge/_CODING_LEGEND-FF4500?style=for-the-badge&logo=fire&logoColor=white&labelColor=8B0000" />
+  <img src="https://img.shields.io/badge/_TECH_WIZARD-FFD700?style=for-the-badge&logo=magic&logoColor=black&labelColor=DAA520" />
+  <img src="https://img.shields.io/badge/_CYBER_GUARDIAN-FF1744?style=for-the-badge&logo=security&logoColor=white&labelColor=C62828" />
+  <img src="https://img.shields.io/badge/_SOLUTION_ARCHITECT-00E676?style=for-the-badge&logo=target&logoColor=white&labelColor=2E7D32" />
+  <img src="https://img.shields.io/badge/_INNOVATION_MASTER-9C27B0?style=for-the-badge&logo=rocket&logoColor=white&labelColor=6A1B9A" />
 </p>
 
 ---
 
-## 🌟 ABOUT THE DIGITAL ARCHITECT
+##  ABOUT THE DIGITAL ARCHITECT
 
 <img align="right" alt="Epic Coding GIF" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
