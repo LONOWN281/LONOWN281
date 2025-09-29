@@ -339,7 +339,7 @@ Go           1 hr 45 mins    █░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <h2>🚀 Ready to Build Legends Together? 🚀</h2>
+
   <p><strong>Let's connect and create technological marvels that shape the future!</strong></p>
   
   <img src="https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=FFD700" />
@@ -348,10 +348,4 @@ Go           1 hr 45 mins    █░░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/🌟_Follow_The_Journey-9B59B6?style=for-the-badge&logo=rss&logoColor=white&labelColor=8E44AD" />
 </div>
 
----
 
-<div align="center">
-  <sub>💖 Crafted with passion and precision by <strong>LONOWN281</strong> | <strong>2025</strong> | <em>"Coding the future, securing the present"</em> 🚀</sub>
-  <br>
-  <sub>⚡ <strong>Fun Fact</strong>: This README updates itself with real-time stats and adapts to my latest adventures! ⚡</sub>
-</div>
