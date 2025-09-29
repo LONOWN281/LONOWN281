@@ -219,20 +219,9 @@ class LONOWN281 implements Developer {
 
 ---
 
-## 🎮 BEYOND THE CODE
 
 <img align="right" alt="Gaming & Creativity" width="320" src="https://media.giphy.com/media/l0HlQoLBg7MOSmwHC/giphy.gif">
 
-### 🌟 **When I'm Not Conquering Code**:
-
-🎯 **Gaming Mastery**: Dominating virtual realms and exploring new worlds  
-🎨 **Digital Artistry**: Creating stunning 3D models and UI/UX designs  
-🔬 **Tech Innovation**: Always experimenting with cutting-edge technologies  
-🏃‍♂️ **Physical Wellness**: Maintaining peak performance through fitness  
-📚 **Continuous Learning**: Devouring tech blogs, research papers, and tutorials  
-🎵 **Musical Inspiration**: Coding to epic soundtracks and lo-fi beats  
-🌍 **Open Source**: Contributing to the global developer community  
-🤝 **Mentoring**: Helping fellow developers level up their skills
 
 ---
 
