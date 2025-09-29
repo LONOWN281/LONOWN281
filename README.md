@@ -1,23 +1,23 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F8B9&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+LONOWN;💻+Full-Stack+Developer;🔐+Cybersecurity+Expert;🎮+Tech+%2B+Gaming+%2B+Creativity" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F8B9&center=true&vCenter=true&width=750&lines=👋+Hey%2C+I'm+LONOWN;💻+Full-Stack+Developer;🔐+Cybersecurity+Expert;🎮+Tech+%2B+Gaming+%2B+Creativity;&repeat=true" alt="Typing SVG"/>
 </p>
 
 ---
 
+## 🚀 About Me  
+✨ Full-stack developer & cybersecurity enthusiast who loves blending **tech + gaming + creativity**.  
+⚡ *Motto*: *"Code everything. Secure everything."*  
 
-### 🚀 About Me  
-- 📫 Reach me: **lonown@gmail.com**  
-- ⚡ Fun Fact: I mix **tech, gaming & creativity** into every project.  
-- 🌍 Motto: *"Code everything. Secure everything."*
+📫 Reach me: **lonown@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://discord.com/users/1041583842097635368" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
-  <a href="mailto:lonown@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://github.com/LONOWN281" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://discord.com/users/1041583842097635368" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
+  <a href="mailto:lonown@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://github.com/LONOWN281" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,c,cpp,java,cs,php,ruby,go,rust,dart,kotlin,swift,bash,powershell" />
 </p>
 
-💡 *From low-level systems → to high-level apps → to mobile & beyond.*
+💡 From **low-level systems** → to **high-level apps** → to **mobile & beyond**.
 
 ---
 
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,tailwind,nestjs,express,angular,django,flask,fastapi,bootstrap,threejs,unity" />
 </p>
 
-✔️ I don’t just **use frameworks** — I **build ecosystems**.
+✔️ I don’t just *use frameworks* — I **build ecosystems**.
 
 ---
 
@@ -46,8 +46,8 @@
 </p>
 
 - 🕵️ Ethical Hacking & PenTesting  
-- 🔐 Secure API / Network Architectures  
-- 🧩 Reverse Engineering / Malware Analysis  
+- 🔐 Secure API & Network Architectures  
+- 🧩 Reverse Engineering & Malware Analysis  
 - 🔑 Cryptography Systems  
 
 ---
