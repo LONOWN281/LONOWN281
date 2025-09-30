@@ -15,7 +15,7 @@
 
 ---
 
-## 🌟 ABOUT ME
+## ABOUT ME
 
 <img align="right" alt="Epic Coding GIF" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -47,9 +47,6 @@ class LONOWN281 {
 
 **📬 Connect with the Legend**:  
 📧 **Email**: [lonown@gmail.com](mailto:lonown@gmail.com)  
-🌐 **Portfolio**: *Crafting something ...*  
-💬 **Ask me about**: Full-stack wizardry, cybersecurity mastery, AI/ML, or any tech adventure!
-
 ---
 
 ##  DIGITAL CONNECTIONS
