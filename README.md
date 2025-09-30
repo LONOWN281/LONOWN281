@@ -13,37 +13,7 @@
   <img src="https://img.shields.io/badge/+LEVEL-∞-ff6b35?style=for-the-badge&labelColor=16213e" />
 </p>
 
----
 
-## ABOUT ME
-
-<img align="right" alt="Epic Coding GIF" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```typescript
-class LONOWN281 {
-  readonly title = "Full-Stack Developer";
-  readonly powerLevel = Infinity;
-
-  readonly expertise = {
-    frontend: ["React", "Next.js", "Vue", "Angular", "Svelte"],
-    backend: ["Node.js", "Python", "Go", "Rust", "C++"],
-    mobile: ["React Native", "Flutter", "Swift", "Kotlin"],
-    databases: ["PostgreSQL", "MongoDB", "Redis", "Neo4j"],
-    cloud: ["AWS", "Azure", "GCP", "Docker", "K8s"],
-    devops: ["CI/CD", "Terraform", "Ansible", "Jenkins"]
-  };
-
-  readonly superPowers = [
-    "Debugging at light speed",
-    "Converting coffee to clean code",
-    "Building scalable apps",
-    "Designing pixel-perfect UIs",
-  ];
-
-  readonly currentMission = "Building the future of technology, one project at a time";
-}
-
-```
 
 **📬 Connect with the Legend**:  
 📧 **Email**: [lonown@gmail.com](mailto:lonown@gmail.com)  
